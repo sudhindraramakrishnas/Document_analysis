@@ -1,4 +1,5 @@
 name: Test and Build Docker Image
+#made changes to trigger docker build only after tests pass
 
 name: Build Docker Image
 on:
